@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529571366 source:f:\c and c++\shiyan6_1_2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
